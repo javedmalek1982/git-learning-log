@@ -25,6 +25,7 @@ I'm learning Git and version control to track my work.
 - Learn about rebasing and interactive rebase
 - Explore GitHub Actions for automation
 - Practice contributing to open source projects
+- Temp commit for screenshot
 
 
 
